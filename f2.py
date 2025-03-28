@@ -41,4 +41,4 @@ def find_items(image_path, template_path, scale_range=(0.5, 1), scale_step=0.01)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 
-find_items('Finding/image.jpg', 'Template/find/no.jpg')
+find_items('Finding/12.jpg', 'bo.jpg')
